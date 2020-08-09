@@ -98,7 +98,7 @@ VALUES
 -- person_id should be different for different people.
 INSERT INTO orders
 (6, 'Oxyclean', 19.99, 75)
-(7, 'Dyson', 399.99, 50)
+(7, 'Dyson', 399.99, 50);
 
 -- Select all the records from the orders table.
 SELECT * FROM orders;
